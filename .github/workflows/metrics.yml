@@ -22,10 +22,15 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Commit time-of-day / per-day charts + language activity
+          # Commit habits — simpler mode, look further back
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
+          plugin_habits_charts: no
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+
+          # remove achievements
+          plugin_achievements: no
 
           # Most used languages bar
           plugin_languages: yes
