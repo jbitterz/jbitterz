@@ -8,7 +8,8 @@
 
 <i>💻 Student developer building full-stack web apps.</i><br/>
 <i>🐾 Currently building RescueBase, a pet adoption platform with smart matching.</i><br/>
-⚡ TypeScript enjoyer | 🐘 PHP survivor | 🤖 AI tinkerer | ☕ fueled by coffee<br/>
+🟨 Really into JavaScript right now | ⚙️ Automating stuff to make it better | 🔧 Hardware tinkerer<br/>
+🖥️ I can diagnose your PC (it's probably the RAM)<br/>
 <i>🤔 kinsa who?</i>
 
 <h2>Currently working on</h2>
